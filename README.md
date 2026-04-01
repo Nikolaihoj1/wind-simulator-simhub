@@ -1,6 +1,8 @@
 # wind-simulator-simhub
 Wind simulator project for simhub
 
+Starting a repo for info about making a wind simulator with all the parts, cad files and help to assembly, 
+
 All links are for danish websites if possible. But you should be able to source the parts on local vendors. 
 
 Auduino UNO R3 
