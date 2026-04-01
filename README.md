@@ -14,5 +14,14 @@ Arduino Uno L298NH Dual Channel Motor Driver Shield:
 This one is abit underpowered as far as i can read, 
 https://ardustore.dk/produkt/arduino-uno-l298nh-dual-channel-motor-driver-shield
 
- Cytron 10Amp 7V-30V DC Motor Driver Shield til Arduino:
+Cytron 10Amp 7V-30V DC Motor Driver Shield til Arduino:
+More power on this - should be able to run dual motors from same terminal.
 https://opencircuit.dk/product/10amp-7v-30v-dc-motor-driver-shield-arduino
+
+
+120mm fans:
+FYI cheaping out on fans will forsure lessen the air they are pushing (200 cfm is what ive been told is good)
+
+
+Sources: 
+https://www.simhubdash.com/community-2/projects/wind-sim-with-arduino-uno-rev-3-and-arduino-motor-shield-rev-3/
