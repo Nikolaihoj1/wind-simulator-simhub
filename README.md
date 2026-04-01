@@ -24,5 +24,9 @@ FYI cheaping out on fans will forsure lessen the air they are pushing (200 cfm i
 https://www.amazon.co.uk/dp/B086HDVY6D?_encoding=UTF8&ref_=cm_sw_r_cp_ud_dp_GM045KXCRENHQJBGPK79&th=1
 
 
+CAD files:
+
+https://www.printables.com/model/567879-120mm-fan-adapter-for-sim-hub-wind-sim
+
 Sources: 
 https://www.simhubdash.com/community-2/projects/wind-sim-with-arduino-uno-rev-3-and-arduino-motor-shield-rev-3/
