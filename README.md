@@ -21,6 +21,7 @@ https://opencircuit.dk/product/10amp-7v-30v-dc-motor-driver-shield-arduino
 
 120mm fans:
 FYI cheaping out on fans will forsure lessen the air they are pushing (200 cfm is what ive been told is good)
+https://www.amazon.co.uk/dp/B086HDVY6D?_encoding=UTF8&ref_=cm_sw_r_cp_ud_dp_GM045KXCRENHQJBGPK79&th=1
 
 
 Sources: 
